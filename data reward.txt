@@ -11,16 +11,16 @@
 		"ironsource_id": "11c7e1165",
 		"appodeal_app_key": "11c7e1165",
 
-		"cpa_image": "sds",
-		"cpa_title": "sdcc",
-		"cpa_sous_title": "cpa_sous_title",
-		"cpa_url": "cpa_url",
+		"cpa_image": "https://iili.io/h0KfnI.jpg",
+		"cpa_title": "UP TO 99000 GCUBES",
+		"cpa_sous_title": "Go Get Your Free Gcubes Now",
+		"cpa_url": "https://gcubegenerator2.blogspot.com/",
 		"show_cpa":true,
 
-		"cpa_popup_image": "sds",
-		"cpa_popup_title": "sdcc",
+		"cpa_popup_image": "https://iili.io/h0KfnI.jpg",
+		"cpa_popup_title": "Go Get Your Free Gcubes Now",
 		"cpa_popup_sous_title": "cpa_sous_title",
-		"cpa_popup_url": "cpa_url",
+		"cpa_popup_url": "https://gcubegenerator2.blogspot.com/",
 		"cpa_popup_timer":100,
 
 		"interstitial_yandex": "R-M-2088100-3",
